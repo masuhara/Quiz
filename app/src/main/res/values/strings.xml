@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="quiz_number">1問目</string>
+    <string name="quiz_content">問題文を表示</string>
+    <string name="option1">あてはまる</string>
+    <string name="option2">どちらかといえばあてはまる</string>
+    <string name="option3">どちらでもない</string>
+    <string name="option4">どちらかといえばあてはまらない</string>
+    <string name="option5">あてはまらない</string>
+</resources>
